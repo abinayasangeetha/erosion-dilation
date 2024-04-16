@@ -64,22 +64,21 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-<br>
+
 ![image](https://github.com/abinayasangeetha/erosion-dilation/assets/119393675/9feae964-6d40-4e50-812a-df1af20bb39e)
 
-<br>
+
 
 ### Display the Eroded Image
-<br>
+
 ![image](https://github.com/abinayasangeetha/erosion-dilation/assets/119393675/643162fc-f0eb-4ca0-95ce-0d7d54fd0f08)
 
-<br>
 
 ### Display the Dilated Image
-<br>
+
 ![image](https://github.com/abinayasangeetha/erosion-dilation/assets/119393675/fe22f911-bcb5-4130-84ea-034c87da0b32)
 
-<br>
+
 
 
 ## Result
